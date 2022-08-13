@@ -20,3 +20,6 @@
 ## License
 
 _If any issues arise, please feel free contribute to code or contact author for troubleshooting._
+
+_MIT_
+_Copyright (c) 2022 Karen Choy_ 
