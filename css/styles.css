@@ -1,12 +1,13 @@
 
 body {
   font-family:Arial, Helvetica, sans-serif;
-  background-color: blanchedalmond;
-  
+  background-color: blanchedalmond;  
 }
+
 .underline {
   text-decoration: underline;
 }
+
 .top {
   text-align: center;
 }
@@ -16,8 +17,8 @@ body {
   margin-top: 20px;
   margin-bottom: 20px;
   width: 30%;
-
 }
+
 .Karen {
   margin: auto;
   margin-bottom: 20px;
@@ -30,8 +31,8 @@ body {
 .centered-image {
   width: 100%;
   height: 100%;
-  
-}
+  }
+
 .column {
   float: left;
   width: 50%;
@@ -39,8 +40,8 @@ body {
   border: 5px rgb(80, 217, 255) solid;
   padding: 10px;
   box-sizing: border-box;
-
 }
+
 .sidebar {
   float: right;
   width: 30%;
