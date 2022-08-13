@@ -1,6 +1,9 @@
 # _Portflio Labding for Karen Choy_
 #### By _**Karen Choy**_
 #### _A simple, organized webpage that allows user to quickly introduce themselves, add a photo and short facts about themselves_
+
+## _Link to gh pages: https://ohkkchoy.github.io/Portfolio-Landing/_
+
 ## Technologies used 
 
 * HTML
