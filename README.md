@@ -3,9 +3,9 @@
 #### _A simple, organized webpage that allows user to quickly introduce themselves, add a photo and short facts about themselves_
 ## Technologies used 
 
-*HTML
-*CSS
-*Markdown
+* HTML
+* CSS
+* Markdown
 
 ## Setup/Installation Requirements
 
@@ -14,6 +14,8 @@
 * Open in VS code
 
 ## Known Bugs
+
+* Picture has a gap at the bottom between content and border (issue with padding?)
 
 ## License
 
