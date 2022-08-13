@@ -1,0 +1,18 @@
+
+.highlight {
+  background-color: yellow;
+}
+
+.column {
+  float: left;
+  width: 30%;
+  margin: 20px;
+}
+.sidebar {
+  float: right;
+  width: 30%;
+  border: 12px solid rgba(99, 99, 242, 0.596) ;
+  padding: 10px;
+  margin: 10px;
+} 
+
