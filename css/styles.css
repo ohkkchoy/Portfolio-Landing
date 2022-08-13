@@ -5,8 +5,11 @@
 
 .column {
   float: left;
-  width: 30%;
+  width: 20%;
   margin: 20px;
+  border: 10px coral solid;
+  box-sizing: border-box;
+
 }
 .sidebar {
   float: right;
