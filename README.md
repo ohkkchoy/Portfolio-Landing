@@ -1,8 +1,8 @@
-# _Portflio Labding for Karen Choy_
+# _Portflio Landing for Karen Choy_
 #### By _**Karen Choy**_
-#### _A simple, organized webpage that allows user to quickly introduce themselves, add a photo and short facts about themselves_
+#### _A simple, organized webpage that allows user to quickly introduce themselves, add a photo and short facts about themselves._
 
-## _Link to gh pages: https://ohkkchoy.github.io/Portfolio-Landing/_
+#### _Link to gh pages: https://ohkkchoy.github.io/Portfolio-Landing/_
 
 ## Technologies used 
 
@@ -18,7 +18,7 @@
 
 ## Known Bugs
 
-* Picture has a gap at the bottom between content and border (issue with padding?)
+* Picture has a small gap at the bottom between content and border.
 
 ## License
 
